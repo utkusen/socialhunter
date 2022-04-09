@@ -9,9 +9,9 @@ Currently, it supports Twitter, Facebook, Instagram and Tiktok without any API k
 
 You can download the pre-built binaries from the [releases](https://github.com/utkusen/socialhunter/releases) page and run. For example:
 
-`wget https://github.com/utkusen/socialhunter/releases/download/v0.1.0/socialhunter_0.1.0_Linux_amd64.tar.gz`
+`wget https://github.com/utkusen/socialhunter/releases/download/v0.1.1/socialhunter_0.1.1_Linux_amd64.tar.gz`
 
-`tar xzvfsocialhunter_0.1.0_Linux_amd64.tar.gz`
+`tar xzvf socialhunter_0.1.1_Linux_amd64.tar.gz`
 
 `./socialhunter --help`
 
