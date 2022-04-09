@@ -29,3 +29,9 @@ socialhunter requires 2 parameters to run:
 `-f` : Path of the text file that contains URLs line by line. The crawl function is path-aware. For example, if the URL is `https://utkusen.com/blog`, it only crawls the pages under `/blog` path
 
 `-w` : The number of workers to run (e.g `-w 10`). The default value is 5. You can increase or decrease this by testing out the capability of your system.
+
+# Donation
+
+Loved the project? You can buy me a coffee
+
+<a href="https://www.buymeacoffee.com/utkusen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
