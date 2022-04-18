@@ -3,7 +3,7 @@ Crawls the given URL and finds broken social media links that can be hijacked. B
 
 Currently, it supports Twitter, Facebook, Instagram and Tiktok without any API keys.
 
-[![asciicast](https://asciinema.org/a/j7BB367Z41BUEJ9lCQjDJzAp7.svg)](https://asciinema.org/a/j7BB367Z41BUEJ9lCQjDJzAp7)
+[![asciicast](https://asciinema.org/a/wYMVXIHCxxOB3QPWq4Fe8Advn.svg)](https://asciinema.org/a/wYMVXIHCxxOB3QPWq4Fe8Advn)
 
 # Installation
 
