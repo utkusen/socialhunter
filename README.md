@@ -20,7 +20,7 @@ You can download the pre-built binaries from the [releases](https://github.com/u
 ## From Source
 
 1. Install Go on your system
-2. Run: `go get -u github.com/utkusen/socialhunter`
+2. Run: `go install github.com/utkusen/socialhunter@latest`
 
 # Usage
 
