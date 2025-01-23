@@ -1,4 +1,8 @@
 # socialhunter
+
+> [!IMPORTANT]  
+> This tool is no longer working, and we won't be able to fix it as it has become difficult to bypass social media protections.
+
 Crawls the given URL and finds broken social media links that can be hijacked. Broken social links may allow an attacker to conduct phishing attacks. It also can cost a loss of the company's reputation. Broken social media hijack issues are usually accepted on the bug bounty programs.
 
 Currently, it supports Twitter, Facebook, Instagram and Tiktok without any API keys.
